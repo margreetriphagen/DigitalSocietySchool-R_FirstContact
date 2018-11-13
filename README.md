@@ -49,10 +49,10 @@ You just need to download the versions of R and R studio that match your OS (Win
 
 
 ### Digital Camp Details
-Digital Camp: First Contact with R
-Trainers: Emma Beauxis-Aussalet and Sjoukje Goldman
-Date: November 16 and 17, 2018
-Time: 9:30 – 17:00 (lunch included)
+Digital Camp: First Contact with R  
+Trainers: Emma Beauxis-Aussalet and Sjoukje Goldman  
+Date: November 16 and 17, 2018  
+Time: 9:30 – 17:00 (lunch included)  
 Venue: Wibauthuis, Wibautstraat 3b, 1091 GH Amsterdam – http://www.hva.nl/locaties/hva-locaties/wibauthuis.html
 
 
