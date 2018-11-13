@@ -24,7 +24,6 @@ Start programming with R without headache! You will learn to handle datasets and
 Conceived by Emma Beauxis-Ausselet from the [Digital Society School](http://digitalsocietyschool.org) and Sjoukje Goldman from [Center for Market Insights](http://www.cmihva.nl)
 
 ---
-
 # Instructions for installing the R software and download the workshop materials.
 
   
@@ -47,14 +46,14 @@ Just download the files with the “Download Zip” option. Go to "Clone or down
 
 You just need to download the versions of R and R studio that match your OS (Windows, Mac or Linux) and install both R and R Studio like any other program.
 
-
+---
 ### Digital Camp Details
 Digital Camp: First Contact with R  
 Trainers: Emma Beauxis-Aussalet and Sjoukje Goldman  
 Date: November 16 and 17, 2018  
 Time: 9:30 – 17:00 (lunch included)  
 Venue: Wibauthuis, Wibautstraat 3b, 1091 GH Amsterdam – http://www.hva.nl/locaties/hva-locaties/wibauthuis.html
-
+Contact: m.riphagen@hva.nl
 
 Thanks to all the participants! Hope you enjoyed :)
 
