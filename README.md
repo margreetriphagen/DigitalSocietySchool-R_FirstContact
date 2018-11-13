@@ -1,28 +1,3 @@
-#FIRST CONTACT WITH R
-
-Start programming with R without headache! You will learn to handle datasets and make neat visualizations with just a few lines of code. Within two days, you will be able to inspect datasets, manipulate them, and plot nice graphs to show your results. We will work with datasets related to the green economy. R is a very accessible programming language, so don’t be shy!
-
-##DAY 1
-
-###Friday, November 16, 2018 09:30 – 17:00
-
-- What is R? Why use it?
-- Read datasets of different format (CSV, spreadsheet, JSON, PDF, maybe more)
-- Inspect datasets (dataframe and datatable formats, filter columns and rows, browse rows with loops).
-- Make simple visualizations.
-- Export datasets & visualizations.
-- Data quality issues (missing data, provenance, sampling issues, biases)
-
-
-##DAY 2
-
-###Saturday, November 17, 2018 09:30 – 17:00
-
-- Basic statistics (with extra visualizations)
-- Basic data manipulations (with extra visualizations)
-
-Conceived by [Emma Beauxis-Ausselet](http://digitalsocietyschool.org) and [Sjoukje Goldman](Center for Market Insights](http://www.cmihva.nl)
-
 ---
 # FIRST CONTACT WITH R
 Start programming with R without headache! You will learn to handle datasets and make neat visualizations with just a few lines of code. Within two days, you will be able to inspect datasets, manipulate them, and plot nice graphs to show your results. We will work with datasets related to the green economy. R is a very accessible programming language, so don’t be shy!
